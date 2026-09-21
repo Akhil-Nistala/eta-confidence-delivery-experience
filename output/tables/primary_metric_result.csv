@@ -1,0 +1,2 @@
+n_control,n_treatment,control_rate,treatment_rate,abs_lift_pp,rel_lift_pct,z_statistic,p_value,ci95_low_pp,ci95_high_pp,decision
+3470,3470,0.9432,0.9611,1.787,1.89,3.487,0.00048824529452814536,0.783,2.79,SHIP
