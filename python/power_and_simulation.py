@@ -1,6 +1,6 @@
 """
-EVERYTHING in this file is HYPOTHETICAL / SIMULATED. The Delivery-Time Confidence
-Indicator feature does not exist; no real experiment was run. This script (a) computes
+EVERYTHING in this file is HYPOTHETICAL / SIMULATED. The "ETA Confidence & Delivery
+Experience" feature does not exist; no real experiment was run. This script (a) computes
 the sample size a real experiment would need (standard two-proportion power analysis --
 the formula is real, the inputs are stated assumptions for a not-yet-run test), and
 (b) simulates a plausible post-launch trial result using that sample size, with the same

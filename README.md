@@ -4,9 +4,9 @@
 just the project index.
 
 A product analytics case study on one real, evidenced food-delivery friction point (ETA
-volatility causing order abandonment), proposing a hypothetical feature (the "Delivery-Time
-Confidence Indicator") and simulating — with real statistical rigor — an experiment and
-post-launch result to evaluate it.
+volatility causing order abandonment), proposing a hypothetical feature (the "ETA
+Confidence & Delivery Experience") and simulating — with real statistical rigor — an
+experiment and post-launch result to evaluate it.
 
 **The critical distinction, upheld throughout every file in this project:** the problem
 evidence is real (a real Kaggle dataset + independently-verified real public reviews); the

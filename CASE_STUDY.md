@@ -1,4 +1,4 @@
-# Case Study: The Delivery-Time Confidence Indicator
+# Case Study: ETA Confidence & Delivery Experience
 
 **A product analytics case study on order abandonment driven by ETA volatility in food delivery.**
 
@@ -98,7 +98,7 @@ time (not merely "delivery is slow") as the friction point.
 
 ---
 
-## Proposed Feature — the "Delivery-Time Confidence Indicator" *(SIMULATED / HYPOTHETICAL — this feature does not exist)*
+## Proposed Feature — "ETA Confidence & Delivery Experience" *(SIMULATED / HYPOTHETICAL — this feature does not exist)*
 
 At checkout, alongside the existing point-estimate ETA, show a lightweight confidence
 signal, driven by the same real-world conditions (traffic density, weather, festival flag)
@@ -136,7 +136,7 @@ volatile.
 ## Experiment Design *(HYPOTHETICAL — no real experiment has run)*
 
 - **Design:** User-level randomization at checkout initiation. Control = current
-  single-point ETA. Treatment = ETA + Delivery-Time Confidence Indicator.
+  single-point ETA. Treatment = ETA + ETA Confidence & Delivery Experience.
 - **Power analysis** (`python/power_and_simulation.py`, standard two-proportion z-test
   formula — the *formula* is real statistics; the *inputs* are stated assumptions for a
   test that hasn't run):
